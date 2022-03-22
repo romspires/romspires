@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @romspires
-- 👀 I’m interested in web application development and PWA.
-- 🌱 I’m currently learning front-end development with HTML5, CSS3 e JavaScript.
+- 👀 I’m a front-end developer and very interested in PWA.
 - 💞️ I’m looking to collaborate in this world of web development.
 - 📫 How to reach me : <a href="www.linkedin.com/in/romspires">LinkedIn</a>
 
