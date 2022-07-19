@@ -10,6 +10,8 @@
 romspires/romspires is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romspires&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romspires&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+##
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" heigth="100" width="100" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" heigth="80" width="80" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" heigth="80" width="80" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" heigth="80" width="80" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" heigth="80" width="80" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" heigth="80" width="80" />
