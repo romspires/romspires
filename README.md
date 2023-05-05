@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @romspires
-- 👀 I’m a front-end developer and very interested in PWA.
-- 🔙🔚 Now i'm finishing my studies on Back-end.
+- 👀 I’m a back-end developer.
 - 🤝 I’m looking to collaborate in this world of web development.
 - 🆓 Since 2007 i've been involved with free software.
 - 👨🏻‍💻 I have plus ten years of experience on user support and infrastructure, but now I'M A FULL STACK DEVELOPER!!!
-- 📫 How to reach me : <a href="www.linkedin.com/in/romspires">LinkedIn</a> <a href="www.romulopires.atwebpages.com">- Personal page</a>
+- 📫 How to reach me : <a href="www.linkedin.com/in/romspires">LinkedIn</a>
 
 <!---
 romspires/romspires is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
